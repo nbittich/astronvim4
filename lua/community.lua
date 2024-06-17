@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.pack.go" },
 
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.java" },
   {
     -- further customize the options set by the community
     "catppuccin",
