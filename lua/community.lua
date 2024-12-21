@@ -10,6 +10,8 @@ return {
 
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.programming-language-support.rest-nvim" },
   {
     -- further customize the options set by the community
     "catppuccin",
