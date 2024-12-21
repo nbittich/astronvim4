@@ -6,6 +6,10 @@ A template for getting started with [AstroNvim](https://github.com/AstroNvim/Ast
 
 ## 🛠️ Installation
 
+**Warning:**
+
+Requires [https://github.com/lua-rocks/install-lua](lua rocks)
+
 #### Make a backup of your current nvim and shared folder
 
 ```shell
