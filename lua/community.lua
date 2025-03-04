@@ -8,8 +8,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.go" },
 
-  { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.programming-language-support.rest-nvim" },
   {
